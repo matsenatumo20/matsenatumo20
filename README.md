@@ -17,16 +17,15 @@ I am a passionate final year student pursuing a Bachelor's of Science in Electro
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+- 🚀 Learning Back-end Development
+  - Exploring the ins and outs of python programming and django web framework.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed Professional Development Skills for the Digital Age at ALX AFRICA
+- 🌟 Completed CHPC - NITheCS Coding Summer School at National Institute for Theoretical and Computational Sciences
 
 
 ## Get in Touch 📬
