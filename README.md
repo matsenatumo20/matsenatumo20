@@ -1,12 +1,12 @@
 # Hi, I'm Tumo Matsena! 👋
 
-I am a passionate final year student pursuing a Bachelor's of Science in Electronics and Mathematics at Northwest University. I'm passionate about cloud computing, expanding my skills through AWS certification and Back-end development. I aim to leverage my mathematical expertise to drive innovation in cloud computing.
+I am a passionate final year student pursuing a Bachelor's of Science with Electronics and Mathematics at Northwest University. I'm passionate about cloud computing, expanding my skills through AWS certification and Back-end development. I aim to leverage my mathematical expertise to drive innovation in cloud computing.
 
 ![matsenatumo20's Stats](https://github-readme-stats.vercel.app/api?username=matsenatumo20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Electronics and Mathematics at Northwest University.
+- 🔭 I'm currently pursuing my Bachelor's of Science with Electronics and Mathematics at Northwest University.
 - 🌱 Currently learning: **[Back-end Development and AWS Cloud computing]**
 - 🌍 Languages: **[Python programming and English]**
 - 📫 How to reach me: **[matsenatumo20@gmail.com]**
