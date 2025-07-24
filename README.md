@@ -24,7 +24,8 @@ I am a passionate final year student pursuing a Bachelor's of Science with Elect
 
  ## 🏆 Achievements
 
-- 🌟 Completed Amazon Web Services Cloud Practitioner exam
+- 🌟 Completed FNB App Academy 2025
+- 🌟 Completed Amazon Web Services Cloud Practitioner Certificate
 - 🌟 Completed Professional Development Skills for the Digital Age at ALX AFRICA
 - 🌟 Completed CHPC - NITheCS Coding Summer School at National Institute for Theoretical and Computational Sciences
 
