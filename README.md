@@ -4,7 +4,6 @@ I'm a BSc Electronics and Mathematics graduate from North-West University with a
 
 Through practical projects, remote work experience, and continuous learning, I've been developing my skills in Python, SQL, Excel, Power BI, and Alteryx Cloud. I'm looking forward to growing as an analytics professional and applying my quantitative background to real-world challenges.
 
-![matsenatumo20's Stats](https://github-readme-stats.vercel.app/api?username=matsenatumo20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
